@@ -1,0 +1,25 @@
+h1 {
+    background-color: darksalmon;
+}
+
+.button {
+    background-color: darkseagreen;
+}
+
+div {
+    background-color: floralwhite;
+    text-align: center;
+    font-family: Garamond, "Times New Roman", serif;
+}
+
+.watermark {
+    color: rgba(0, 0, 0, 0.5)
+}
+
+li {
+    text-align: left;
+}
+
+h4 {
+    background-color: lemonchiffon;
+}
